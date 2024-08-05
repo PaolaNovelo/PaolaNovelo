@@ -1,6 +1,6 @@
 # <img src="https://cdn3.emoji.gg/emojis/2213-kirbywave.gif" width="30" height="30"/> Hi, I'm Paola!  
 
-👩🏻‍💻 Hello! I'm a software engineering student <br/>
+👩🏻‍💻 Hello! I'm a Software Engineer student <br/>
 🎨 Deep passion for coding and web design <br/> 
 ✨ I love learning new stuff and challenge my self <br/>
 🧶 Fun Fact: I love crochet and reading
